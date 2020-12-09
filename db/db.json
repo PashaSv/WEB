@@ -1,0 +1,43 @@
+{
+  "WORKERS": [
+    {
+      "id": 2,
+      "name": "P",
+      "surname": "F",
+      "patronymic": "Petro",
+      "status": "1"
+    },
+    {
+      "id": 3,
+      "name": "S",
+      "surname": "F",
+      "patronymic": "Peich",
+      "status": "1"
+    },
+    {
+      "id": 5,
+      "name": "dfhgd",
+      "surname": "sdfghj",
+      "patronymic": "Pich",
+      "status": "1"
+    }
+  ],
+  "org": [
+    {
+      "id": 1,
+      "name": "IT отдел"
+    },
+    {
+      "id": 1,
+      "name": "отдел продаж"
+    },
+    {
+      "id": 1,
+      "name": "отдел доставки"
+    },
+    {
+      "id": 1,
+      "name": "юридический отдел"
+    }
+  ]
+}
